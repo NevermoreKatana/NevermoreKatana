@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Katana</h1>
-<h3 align="center">Passionate about cryptography and security models</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/NevermoreKatana](https://github.com/NevermoreKatana)
+# Hi, I'm Katana Nevermore! 👋
 
-- 📫 How to reach me **https://t.me/nevermorekatana**
+
+## 🚀 About Me
+Привет! Меня зовут katana, и я являюсь начинающим Back-end разработчиком на Python3. Знимаюсь созданием телеграм-ботов с web-приложений. Я также увлечен разработкой различных алгоритмов и эмуляторов, и активно занимаюсь разработкой баз данных.
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/NevermoreKatana?tab=repositories)
+📫 How to reach me https://t.me/nevermorekatana
+
 
 
 <h3 align="left">Languages and Tools:</h3>
